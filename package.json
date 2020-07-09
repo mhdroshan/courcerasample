@@ -1,0 +1,17 @@
+{
+  "name": "courcework",
+  "version": "1.0.0",
+  "description": "sample work",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "Roshan",
+  "license": "ISC",
+  "homepage":"https://github.com/mhdroshan/courcerasample",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
